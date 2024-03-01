@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de Tarefas Compose</string>
+    <string name="pref_user_jwt">pref_user_jwt</string>
+    <string name="pref_user">pref_user</string>
+    <string name="deslog_request">deslog_request</string>
+    <string name="deslog_user_request">deslog_user_request</string>
+    <string name="url_api">http://192.168.1.45/Chat</string>
+</resources>
